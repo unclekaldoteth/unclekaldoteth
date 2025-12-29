@@ -50,16 +50,6 @@ My goal is to **ship decentralized products** that bring real utility to users o
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=unclekaldoteth&layout=compact&theme=radical&hide_border=true&border_radius=12&cache_seconds=1800)
-
-</div>
-
----
-
 ## Let's Connect
 
 I'm open to collaborating on:
