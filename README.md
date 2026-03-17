@@ -1,72 +1,70 @@
-<!-- HEADER SECTION -->
-<div align="center">
+# Hi, I'm Fabio Kalandra
 
-# Hi, I'm **Fabio Kalandra**
+**Full-Stack Builder shipping AI-assisted products, APIs, and on-chain workflows**
 
-### Web3 Builder & Stacks Developer  
-_Building decentralized applications on Bitcoin L2 — from smart contracts to full-stack dApps._
+I like building fast, testing ideas in public, and turning scrappy prototypes into useful products. My background in brand and marketing gives me a strong product instinct, so I naturally think about UX, positioning, and how to ship something people can actually use.
 
-[![GitHub](https://img.shields.io/badge/GitHub-unclekaldoteth-black?style=flat&logo=github)](https://github.com/unclekaldoteth)
-[![X](https://img.shields.io/badge/X-@fabiokalandra-1DA1F2?style=flat&logo=twitter)](https://x.com/fabiokalandra)
-[![Farcaster](https://img.shields.io/badge/Farcaster-unclekal.eth-8A63D2?style=flat&logo=farcaster)](https://farcaster.xyz/unclekal.eth)
-
-</div>
+Recently, my work has been moving toward **AI features, workflow automation, payment-gated APIs, and full-stack product builds** - from LLM-backed governance assistants to AI-scored content pipelines, privacy wallets, and stablecoin payroll tools.
 
 ---
 
-## About Me
+## What I'm shipping right now
 
-I'm a passionate **Web3 Builder** with a background in brand and marketing, now fully focused on creating and building in the blockchain space.  
-My goal is to **ship decentralized products** that bring real utility to users on Bitcoin Layer 2 and beyond.
-
-**Core Focus:** Stacks Blockchain • Smart Contracts (Clarity) • Full-Stack dApps • Farcaster Frames  
-
-**Languages & Tools:** TypeScript • JavaScript • Clarity • React • Next.js • Node.js  
-
-**Currently Exploring:** Bitcoin L2 Innovations • Prediction Markets • DeFi on Stacks  
+- **[ThesisRail](https://github.com/unclekaldoteth/ThesisRail)** - AI-scored signal ingestion from Reddit and YouTube into structured campaigns, with x402 pay-per-request access and Stacks escrow payouts.
+- **[sad-StacksAIDao](https://github.com/unclekaldoteth/sad-StacksAIDao)** - DAO governance assistant with a multi-provider LLM backend, live on-chain context, proposal analysis, treasury analysis, and chat.
+- **[402FC](https://github.com/unclekaldoteth/402FC)** - pay-per-watch football platform with x402 micropayments, premium analytics, and AI tactical summaries.
+- **[ssshbtc](https://github.com/unclekaldoteth/ssshbtc)** - confidential wallet prototype for private BTC-value transfers on Starknet using ZK proofs, prover services, and indexer APIs.
+- **[cheqq](https://github.com/unclekaldoteth/cheqq)** - borderless payroll and invoicing product with Next.js, Supabase, Prisma, Privy, and on-chain stablecoin flows.
 
 ---
 
-## Featured Projects
+## Focus
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**Stacks Prediction Market**](https://github.com/unclekaldoteth/stacks-prediction-market) | Decentralized prediction market platform on Stacks blockchain | Clarity • TypeScript • Next.js |
-| [**Stacks Daily Raffle**](https://github.com/unclekaldoteth/stacks-daily-raffle) | Daily raffle dApp with on-chain randomness on Stacks | Clarity • TypeScript • Next.js |
-| [**Bitcoin Aura**](https://github.com/unclekaldoteth/bitcoin-aura) | NFT dApp for Stacks Builder Challenge — 100% vibe coded ✨ | JavaScript • Clarity |
-| [**Stacks Bridge**](https://github.com/unclekaldoteth/stacks-bridge) | Cross-chain bridging solution for Stacks ecosystem | JavaScript |
-| [**Stacks.fun**](https://github.com/unclekaldoteth/stacks.fun) | Memecoin launchpad platform on Stacks | TypeScript • Next.js |
-| [**Onchain Dish Frame**](https://github.com/unclekaldoteth/onchain-dish-frame) | Farcaster Frame for on-chain interactions | TypeScript |
+- AI product prototyping and workflow automation
+- Full-stack development with TypeScript, Next.js, React, Node.js, and Express
+- External API integrations, payments, wallets, and on-chain data
+- Smart contracts and app layers across Clarity, Solidity, and Cairo
+- Shipping hackathon MVPs fast and iterating from product feedback
 
 ---
 
-## Highlights & Achievements
+## Selected Projects
 
-- Active builder in the **Stacks ecosystem** — shipping multiple dApps on Bitcoin L2  
-- Participant in **Stacks Builder Challenge** with Bitcoin Aura project  
-- Building **prediction markets** and **DeFi applications** on Stacks  
-- Creating **Farcaster Frames** for on-chain social experiences  
-- Learning in public — from Base to Stacks, always shipping  
-
----
-
-## Let's Connect
-
-I'm open to collaborating on:
-- **Stacks & Bitcoin L2 Development**  
-- **DeFi & Prediction Market Applications**  
-- **Full-Stack dApp Development**  
-- **Farcaster Frames & Social Web3**
-
-**Reach me:**  
-[![X](https://img.shields.io/badge/X-@fabiokalandra-1DA1F2?style=flat&logo=twitter)](https://x.com/fabiokalandra)
-[![Farcaster](https://img.shields.io/badge/Farcaster-unclekal.eth-8A63D2?style=flat&logo=farcaster)](https://farcaster.xyz/unclekal.eth)
-[![GitHub](https://img.shields.io/badge/GitHub-unclekaldoteth-black?style=flat&logo=github)](https://github.com/unclekaldoteth)
+| Project | What it does | Stack |
+|---|---|---|
+| **[ThesisRail](https://github.com/unclekaldoteth/ThesisRail)** | Turns social alpha into structured content campaigns and settles contributor payouts on-chain | Next.js, Express, TypeScript, Clarity, x402 |
+| **[sad-StacksAIDao](https://github.com/unclekaldoteth/sad-StacksAIDao)** | Governance assistant with LLM-backed analysis, chat, and live DAO context | React, Vite, Node.js, TypeScript, Clarity |
+| **[402FC](https://github.com/unclekaldoteth/402FC)** | Pay-per-watch football product with micropayments and AI summaries | Next.js, Express, x402, Gemini API |
+| **[ssshbtc](https://github.com/unclekaldoteth/ssshbtc)** | Privacy wallet prototype with proof generation, verification, and indexing services | Next.js, TypeScript, Cairo, Circom, snarkjs |
+| **[cheqq](https://github.com/unclekaldoteth/cheqq)** | Payroll, invoicing, and treasury flows with stablecoin rails | Next.js, TypeScript, Prisma, Supabase, Solidity |
 
 ---
 
-<div align="center">
+## Current Direction
 
-> _"Ship fast, learn faster — building the future on Bitcoin."_
+I'm especially interested in:
 
-</div>
+- Agentic AI workflows and tool-using products
+- Structured outputs and reliable API-driven automation
+- Retrieval-aware AI applications and context engineering
+- Product-minded AI systems that ship fast and improve quickly
+
+---
+
+## Open To
+
+- Full-Stack AI Engineer roles
+- Agentic systems and automation product work
+- AI x fintech / payments / web3 experiments
+- Fast-moving teams that value shipping, iteration, and product sense
+
+---
+
+## Connect
+
+- **GitHub:** [unclekaldoteth](https://github.com/unclekaldoteth)
+- **X:** [@fabiokalandra](https://x.com/fabiokalandra)
+- **Farcaster:** [unclekal.eth](https://farcaster.xyz/unclekal.eth)
+- **Talent:** [unclekal.eth](https://talent.app/unclekal.eth)
+
+> Ship fast, learn faster, and keep building.
